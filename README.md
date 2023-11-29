@@ -1,7 +1,7 @@
 <h1 align=center>HTTP & SQLite ✨</h1>
 
 ## 🎯 Goals
-<p>The main goal of this activity was to build a Flutter application for online purchases, using everything we've learned throughout the classes.</p>
+<p>The main goal of this activity was to build a Flutter application for online purchases, using everything we've learned throughout the classes, specially HTTP and SQLite.</p>
 
 ## 🛠 Tech & Tools
 <p align=center>
