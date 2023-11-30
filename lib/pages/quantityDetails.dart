@@ -40,7 +40,7 @@ class _QuantityDetailsState extends State<QuantityDetails> {
     for (int i = 0; i < products.length; i++) {
       if (products[i]['id'] == widget.product.id) {
         products[i]['quantity'] += quantity;
-        products[i]['price'] += widget.product.price;
+        products[i]['price'] = widget.product.price;
         existentProduct = true;
         break;
       }
